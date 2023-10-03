@@ -35,6 +35,6 @@ EXAMPLES:
 # Execute 'date' command once (default settings)
 
 By: Szmelc.INC / sx66
-GitHub: https://github.com/orgs/GNU-Szmelc/xloop
+GitHub: https://github.com/GNU-Szmelc/xloop
 
 ```
